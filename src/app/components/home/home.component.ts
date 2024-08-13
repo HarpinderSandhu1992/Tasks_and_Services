@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './home.component.css'
 })
 export class HomeComponent {
+  image: any = "https://miro.medium.com/v2/resize:fit:1400/1*ds-Es2HGAfINReap4nKEGg.jpeg";
 
 }

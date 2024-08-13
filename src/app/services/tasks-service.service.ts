@@ -18,7 +18,7 @@ export class TasksServiceService {
     {
       title: 'Task Two',
       description: 'This is task Two',
-      priority_level: 'High',
+      priority_level: 'Low',
       category: 'Work',
       date: '06-09-2024',
       time: '12:00',
